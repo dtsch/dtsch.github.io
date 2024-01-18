@@ -112,26 +112,26 @@ GIS for Climate Action `2023`
 <!-- ## Awards
 
 `Year`
-Name of Award, Organization -->
+Name of Award, Organization
 
-<!-- ## Publications
+## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) --> -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
-<!-- ### Journals
-
-`Year`
-Article Title, Journal Title -->
-
-<!-- ### Books
+### Journals
 
 `Year`
-Book Title, Journal Title -->
+Article Title, Journal Title 
 
-<!-- ## Presentations
+### Books
 
 `Year`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a> --> -->
+Book Title, Journal Title
+
+## Presentations
+
+`Year`
+Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>  -->
 
 
 <!-- ### Footer
