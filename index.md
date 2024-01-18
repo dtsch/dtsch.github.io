@@ -11,5 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Rye Sustainability Committee EV Charging Plan: [Rye Charging Plan](https://storymaps.arcgis.com/stories/77f512e8ca554883889169e23e6ef32c)
 
 
-## Visual Resume
-[Drew Tschetter Visual Resume](https://public.tableau.com/views/VisualResumev1/Resume?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Visualizations:
+- [Drew Tschetter Visual Resume](https://public.tableau.com/views/VisualResumev1/Resume?:language=en-US&:display_count=n&:origin=viz_share_link)
