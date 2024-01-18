@@ -7,11 +7,11 @@ layout: resume
 ## Education
 
 #### __Oxford Climate Society__
-#### School of Climate Change Certificate (expected completion March 2024)
+##### School of Climate Change Certificate (expected completion March 2024)
 `January 2024 - March 2024`
 
 #### __The George Washington University__  
-#### Masters in Data Science
+##### Masters in Data Science
 `August 2016 - December 2017`
 
 #### __State University of New York: College at Brockport__  
@@ -21,7 +21,7 @@ layout: resume
 ## Occupation
 
 #### __Lead Consultant__
-#### Two Circles Inc. (New York, NY)
+##### Two Circles Inc. (New York, NY)
 `April 2021 - August 2023`
 
 - Updated and maintained Python script that created copies and updates to individual school Tableau dashboards from the master template
@@ -34,7 +34,7 @@ layout: resume
 - Developed Python script to create random, non-repeating pairings for internal coffee dates for North America staff
 
 #### __Senior Consultant__
-#### Guidehouse LLP (Washington, DC)
+##### Guidehouse LLP (Washington, DC)
 `November 2019 - April 2021`
 
 - Customized and expedited data management in R to deploy visualizations in Power BI
@@ -45,7 +45,7 @@ layout: resume
 - Leanred Qualtrics to create surverys with custom Javascript functions, and develop Power BI visualizations to analyze the results
 
 #### __Consultant__
-#### Ernst & Young LLP (McLean, VA)
+##### Ernst & Young LLP (McLean, VA)
 `July 2018 - November 2019`
 
 - Administer ETL of client data with SQL Server
@@ -55,7 +55,7 @@ layout: resume
 
 
 #### __Data Analyst Intern__
-#### World Wildlife Fund (Washington, DC)
+##### World Wildlife Fund (Washington, DC)
 `May 2017 - May 2018`
 
 - Organize and clean data in R, Python, and MS Excel
@@ -108,7 +108,7 @@ F.F. Thompson Hospital Emergency Department
 ## Certifications
 
 #### __Esri__
-#### GIS for Climate Action
+##### GIS for Climate Action
 `2023`
 
 <!-- ## Awards
