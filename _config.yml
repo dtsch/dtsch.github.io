@@ -9,9 +9,9 @@ logo:             # filename of a logo image that has been placed into your imag
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
   name: Drew Tschetter
-  avatar: Headshot.jpg
-  bio: "Master's in Data Science student at The George Washington University"
-  email: drewtschetter@gwu.edu
+  avatar: Drew 3.jpg
+  bio: "Data Scientist interested in the healthcare and climate change/environmental sustainability sectors. Master's of Data Science from The George Washington University"
+  email: drew.tschetter@gmail.com
   twitter: #username
   facebook: #username
   instagram: getthatcheddar
@@ -31,7 +31,7 @@ owner:
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: dchedz
   dribbble: #username
   youtube: #username
   soundcloud: #username
