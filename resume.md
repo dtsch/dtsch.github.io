@@ -6,21 +6,21 @@ layout: resume
 
 ## Education
 
-### __Oxford Climate Society__
+#### __Oxford Climate Society__
 #### School of Climate Change Certificate (expected completion March 2024)
 `January 2024 - March 2024`
 
-### __The George Washington University__  
+#### __The George Washington University__  
 #### Masters in Data Science
 `August 2016 - December 2017`
 
-### __State University of New York: College at Brockport__  
+#### __State University of New York: College at Brockport__  
 #### Bachelors in Mathematics, with minors in Biology and Chemistry
 `August 2007 - December 2011`
 
 ## Occupation
 
-### __Lead Consultant__
+#### __Lead Consultant__
 #### Two Circles Inc. (New York, NY)
 `April 2021 - August 2023`
 
@@ -33,7 +33,7 @@ layout: resume
 - Managed business development project for a mutli-team organization from proposal to delivery, including multiple market surveys, existing fan survey, corresponding analyses, and created an unsupervised clustering model (k-means and k-modes) to identify audience segments from the market surveys
 - Developed Python script to create random, non-repeating pairings for internal coffee dates for North America staff
 
-### __Senior Consultant__
+#### __Senior Consultant__
 #### Guidehouse LLP (Washington, DC)
 `November 2019 - April 2021`
 
@@ -44,7 +44,7 @@ layout: resume
 - Learned UIPath to create a web scraping bot to collect abstracts and research papers from a medical conference website
 - Leanred Qualtrics to create surverys with custom Javascript functions, and develop Power BI visualizations to analyze the results
 
-### __Consultant__
+#### __Consultant__
 #### Ernst & Young LLP (McLean, VA)
 `July 2018 - November 2019`
 
@@ -54,7 +54,7 @@ layout: resume
 - Collaborated with backend web-dev engineers to incorporate NLP into search function of client solutions
 
 
-### __Data Analyst Intern__
+#### __Data Analyst Intern__
 #### World Wildlife Fund (Washington, DC)
 `May 2017 - May 2018`
 
@@ -107,7 +107,7 @@ F.F. Thompson Hospital Emergency Department
 
 ## Certifications
 
-### __Esri__
+#### __Esri__
 #### GIS for Climate Action
 `2023`
 
