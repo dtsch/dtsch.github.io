@@ -107,7 +107,7 @@ F.F. Thompson Hospital Emergency Department
 ## Certifications
 
 __Esri__
-GIS for Climate Action `2023`
+`2023` GIS for Climate Action
 
 <!-- ## Awards
 
