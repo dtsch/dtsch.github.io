@@ -42,7 +42,7 @@ layout: resume
 - Deployed a Javascript/jQuery web scraping solution for client to improve project tracking capacity
 - Transitioned a data redaction process from PowerQuery and SQL to an automated Python solution
 - Learned UIPath to create a web scraping bot to collect abstracts and research papers from a medical conference website
-- Leanred Qualtrics to create surverys with custom Javascript functions, and develop Power BI visualizations to analyze the results
+- Learned Qualtrics to create surveys with custom Javascript functions, and develop Power BI visualizations to analyze the results
 
 #### __Consultant__
 ##### Ernst & Young LLP (McLean, VA)
