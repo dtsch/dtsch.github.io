@@ -10,13 +10,16 @@ layout: resume
 ##### School of Climate Change Certificate (expected completion March 2024)
 `January 2024 - March 2024`
 
+
 #### __The George Washington University__  
 ##### Masters in Data Science
 `August 2016 - December 2017`
 
+
 #### __State University of New York: College at Brockport__  
 #### Bachelors in Mathematics, with minors in Biology and Chemistry
 `August 2007 - December 2011`
+
 
 ## Occupation
 
