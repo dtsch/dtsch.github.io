@@ -111,6 +111,10 @@ F.F. Thompson Hospital Emergency Department
 ##### GIS for Climate Action
 `2023`
 
+#### __PADI__
+##### Open Water Scuba Diver
+`2024`
+
 <!-- ## Awards
 
 `Year`
